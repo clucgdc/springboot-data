@@ -22,3 +22,4 @@
 hs_err_pid*
 /jdbc_h2/target/
 /jdbc_mariadb/target/
+/jpa_mariadb/target/

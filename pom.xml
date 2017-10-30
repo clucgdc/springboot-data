@@ -17,6 +17,7 @@
     <modules>
         <module>jdbc_h2</module>
         <module>jdbc_mariadb</module>
+        <module>jpa_mariadb</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
